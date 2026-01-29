@@ -1,4 +1,4 @@
-#Photo Album Web Application
+##Photo Album Web Application
 
 A full-stack Photo Album web application built with React (TypeScript + Tailwind CSS) on the frontend and Python Flask with MySQL on the backend.
 The application allows users to upload, view, and manage images through a clean, responsive interface powered by REST APIs.
@@ -27,6 +27,7 @@ Flask REST API
         |  SQL Queries
         v
 MySQL Database
+
 
 The frontend is responsible for UI, user interaction, and API consumption.
 The backend handles image validation, file storage, and database operations.

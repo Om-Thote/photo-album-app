@@ -3,7 +3,7 @@ import mysql.connector
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="password",   # change if needed
+    password="12345",   
     database="photo_album"
 )
 
